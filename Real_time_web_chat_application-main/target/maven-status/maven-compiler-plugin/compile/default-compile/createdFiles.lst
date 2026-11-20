@@ -1,0 +1,8 @@
+UserStore.class
+Protocol.class
+WebGateway$Bridge.class
+ChatServer.class
+WebGateway.class
+ChatHistory.class
+ChatServer$ClientHandler.class
+WebFiles.class
